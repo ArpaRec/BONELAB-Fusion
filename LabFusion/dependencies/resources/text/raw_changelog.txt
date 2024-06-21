@@ -1,0 +1,8 @@
+Added:
+- Quest 2 Voice Chat
+- Jaw Movement in Mirrors
+Rewrote:
+- Microphone System
+Improved:
+- Microphone Quality
+- Object Physics
